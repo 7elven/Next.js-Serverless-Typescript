@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with `typescript`, `eslint`, `babel`, `prettierr`, `styled-component` and `serverless`
+This is a [Next.js](https://nextjs.org/) project bootstrapped with typescript, eslint, babel, prettierr, styled-component and serverless
 
 ## Getting Started
 
