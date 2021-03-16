@@ -1147,10 +1147,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-13.11.1.tgz#49a2a83df9d26daacead30d0ccc8762b128d53c7"
   integrity sha512-eWQGP3qtxwL8FGneRrC5DwrJLGN4/dH1clNTuLfN81HCrxVtxRjygDTUoZJ5ASlDEeo0ppYFQjQIlXhtXpOn6g==
 
-"@types/node@13.13.21":
-  version "13.13.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.13.21.tgz#e48d3c2e266253405cf404c8654d1bcf0d333e5c"
-  integrity sha512-tlFWakSzBITITJSxHV4hg4KvrhR/7h3xbJdSFbYJBVzKubrASbnnIFuSgolUh7qKGo/ZeJPKUfbZ0WS6Jp14DQ==
+"@types/node@13.13.47":
+  version "13.13.47"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.13.47.tgz#6eca42c3462821309b26edbc2eff0db1e37ab9bc"
+  integrity sha512-R6851wTjN1YJza8ZIeX6puNBSi/ZULHVh4WVleA7q256l+cP2EtXnKbO455fTs2ytQk3dL9qkU+Wh8l/uROdKg==
 
 "@types/prop-types@*":
   version "15.7.3"
@@ -1617,13 +1617,6 @@ aws-sdk@^2.387.0, aws-sdk@^2.474.0, aws-sdk@^2.488.0, aws-sdk@^2.499.0:
     uuid "3.3.2"
     xml2js "0.4.19"
 
-babel-plugin-dynamic-import-node@^2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/babel-plugin-dynamic-import-node/-/babel-plugin-dynamic-import-node-2.3.3.tgz#84fda19c976ec5c6defef57f9427b3def66e17a3"
-  integrity sha512-jZVI+s9Zg3IqA/kdi0i6UDCybUI3aSBLnglhYbSSjKlV7yF1F/5LWv8MakQmvYpnbJDS6fcBL2KzHSxNCMtWSQ==
-  dependencies:
-    object.assign "^4.1.0"
-
 babel-plugin-styled-components@1.12.0:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-1.12.0.tgz#1dec1676512177de6b827211e9eda5a30db4f9b9"
@@ -1697,11 +1690,6 @@ bl@^4.0.1, bl@^4.0.3:
     buffer "^5.5.0"
     inherits "^2.0.4"
     readable-stream "^3.4.0"
-
-bluebird@^3.5.5:
-  version "3.7.2"
-  resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
-  integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.11.9:
   version "4.12.0"
