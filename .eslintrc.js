@@ -16,6 +16,7 @@ module.exports = {
     'react/prop-types': 0,
     semi: ['error', 'never'],
     '@typescript-eslint/explicit-function-return-type': 'off',
+    '@typescript-eslint/explicit-module-boundary-types': 'off',
     'react/jsx-wrap-multilines': ['error'],
     'react/self-closing-comp': [
       'error',
@@ -24,7 +25,7 @@ module.exports = {
         html: false,
       },
     ],
-    'simple-import-sort/sort': [
+    'simple-import-sort/imports': [
       'error',
       {
         groups: [
